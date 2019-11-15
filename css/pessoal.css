@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+img#foto-pessoal {
+    width: 100px;
+    border-radius: 100px;
+}
