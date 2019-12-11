@@ -25,9 +25,9 @@ ul#album-fotos li {
 }
 
 ul#album-fotos li#foto01 {
-    background: url("") no-repeat;
+    background: url("../images/cansado.jpg") no-repeat;
     background-position: 50% 50%;
-    background-size: 400px 400px;
+    background-size: 200px 200px;
     background-color: white;
 }
 
@@ -37,9 +37,9 @@ ul#album-fotos li#foto01:hover {
 }
 
 ul#album-fotos li#foto02 {
-    background: url("") no-repeat;
+    background: url("../images/bolado.jpg") no-repeat;
     background-position: 50% 50%;
-    background-size: 400px 400px;
+    background-size: 200px 200px;
     background-color: white;
 }
 
@@ -61,9 +61,9 @@ ul#album-fotos li#foto03:hover {
 }
 
 ul#album-fotos li#foto04 {
-    background: url("") no-repeat;
+    background: url("../images/indiferente.jpg") no-repeat;
     background-position: 50% 50%;
-    background-size: 400px 400px;
+    background-size: 200px 200px;
     background-color: white;
 }
 
@@ -73,9 +73,9 @@ ul#album-fotos li#foto04:hover {
 }
 
 ul#album-fotos li#foto05 {
-    background: url("") no-repeat;
+    background: url("../images/vacilona.jpg") no-repeat;
     background-position: 50% 50%;
-    background-size: 400px 400px;
+    background-size: 200px 200px;
     background-color: white;
 }
 
@@ -85,9 +85,9 @@ ul#album-fotos li#foto05:hover {
 }
 
 ul#album-fotos li#foto06 {
-    background: url("") no-repeat;
+    background: url("../images/insensivel.jpg") no-repeat;
     background-position: 50% 50%;
-    background-size: 400px 400px;
+    background-size: 200px 200px;
     background-color: white;
 }
 
@@ -97,9 +97,9 @@ ul#album-fotos li#foto06:hover {
 }
 
 ul#album-fotos li#foto07 {
-    background: url("") no-repeat;
+    background: url("../images/TILTADO.jpg") no-repeat;
     background-position: 50% 50%;
-    background-size: 400px 400px;
+    background-size: 200px 200px;
     background-color: white;
 }
 
@@ -109,9 +109,9 @@ ul#album-fotos li#foto07:hover {
 }
 
 ul#album-fotos li#foto08 {
-    background: url("") no-repeat;
+    background: url("../images/tiltada.jpg") no-repeat;
     background-position: 50% 50%;
-    background-size: 400px 400px;
+    background-size: 200px 200px;
     background-color: white;
 }
 
@@ -121,9 +121,9 @@ ul#album-fotos li#foto08:hover {
 }
 
 ul#album-fotos li#foto09 {
-    background: url("") no-repeat;
+    background: url("../images/perdido.jpg") no-repeat;
     background-position: 50% 50%;
-    background-size: 400px 400px;
+    background-size: 200px 200px;
     background-color: white;
 }
 
@@ -131,6 +131,43 @@ ul#album-fotos li#foto09:hover {
     background-position: 0px 0px;
     background-size: 200px 200px;
 }
+
+ul#album-fotos li#foto10 {
+    background: url("../images/teimoso.jpg") no-repeat;
+    background-position: 50% 50%;
+    background-size: 200px 200px;
+    background-color: white;
+}
+
+ul#album-fotos li#foto10:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#foto11 {
+    background: url("../images/ferido.jpg") no-repeat;
+    background-position: 50% 50%;
+    background-size: 200px 200px;
+    background-color: white;
+}
+
+ul#album-fotos li#foto11hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
+ul#album-fotos li#foto12 {
+    background: url("../images/x.jpg") no-repeat;
+    background-position: 50% 50%;
+    background-size: 200px 200px;
+    background-color: white;
+}
+
+ul#album-fotos li#foto12:hover {
+    background-position: 0px 0px;
+    background-size: 200px 200px;
+}
+
 
 ul#album-fotos li span {
     opacity: 0;
