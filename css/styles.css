@@ -5,9 +5,16 @@ body {
     text-align: left;
 }
 
+h2#amjus {
+    text-align: center;
+}
+
+p {
+    text-indent: 50px;
+}
+
 /* Album de fotos com todos os amjus até o presente momento */
 ul#album-fotos {
-    width: 1000px;
     margin: 0, auto;
     padding: 50px;
     overflow: hidden;
